@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors - Teal -->
+    <color name="primary_50">#E0F2F1</color>
+    <color name="primary_100">#B2DFDB</color>
+    <color name="primary_200">#80CBC4</color>
+    <color name="primary_300">#4DB6AC</color>
+    <color name="primary_400">#26A69A</color>
+    <color name="primary_500">#009688</color>
+    <color name="primary_600">#00897B</color>
+    <color name="primary_700">#00796B</color>
+    <color name="primary_800">#00695C</color>
+    <color name="primary_900">#004D40</color>
+
+    <!-- Secondary colors - Deep Teal -->
+    <color name="secondary_50">#E0F7FA</color>
+    <color name="secondary_100">#B2EBF2</color>
+    <color name="secondary_200">#80DEEA</color>
+    <color name="secondary_300">#4DD0E1</color>
+    <color name="secondary_400">#26C6DA</color>
+    <color name="secondary_500">#00BCD4</color>
+    <color name="secondary_600">#00ACC1</color>
+    <color name="secondary_700">#0097A7</color>
+    <color name="secondary_800">#00838F</color>
+    <color name="secondary_900">#006064</color>
+
+    <!-- Accent colors - Light Teal -->
+    <color name="accent_50">#E0F7F6</color>
+    <color name="accent_100">#B2EBE8</color>
+    <color name="accent_200">#80DEEA</color>
+    <color name="accent_300">#4DD0E1</color>
+    <color name="accent_400">#26C6DA</color>
+    <color name="accent_500">#00BCD4</color>
+    <color name="accent_600">#00ACC1</color>
+    <color name="accent_700">#0097A7</color>
+    <color name="accent_800">#00838F</color>
+    <color name="accent_900">#006064</color>
+
+    <!-- Neutral colors - Modern Gray -->
+    <color name="neutral_50">#FAFAFA</color>
+    <color name="neutral_100">#F5F5F5</color>
+    <color name="neutral_200">#EEEEEE</color>
+    <color name="neutral_300">#E0E0E0</color>
+    <color name="neutral_400">#BDBDBD</color>
+    <color name="neutral_500">#9E9E9E</color>
+    <color name="neutral_600">#757575</color>
+    <color name="neutral_700">#616161</color>
+    <color name="neutral_800">#424242</color>
+    <color name="neutral_900">#212121</color>
+
+    <!-- Theme colors -->
+    <color name="colorPrimary">@color/primary_500</color>
+    <color name="colorPrimaryDark">@color/primary_700</color>
+    <color name="colorAccent">@color/accent_500</color>
+    <color name="colorSecondary">@color/secondary_500</color>
+    <color name="colorBackground">@color/neutral_50</color>
+    <color name="colorSurface">@color/neutral_100</color>
+    <color name="colorOnPrimary">@color/neutral_50</color>
+    <color name="colorOnSecondary">@color/neutral_50</color>
+    <color name="colorOnBackground">@color/neutral_900</color>
+    <color name="colorOnSurface">@color/neutral_900</color>
+    <color name="colorOnError">@color/neutral_50</color>
+    <color name="colorError">@color/accent_500</color>
+    <color name="colorSuccess">@color/primary_500</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="colorInfo">@color/primary_500</color>
+    <color name="colorDivider">@color/neutral_200</color>
+    <color name="colorTextPrimary">@color/neutral_900</color>
+    <color name="colorTextSecondary">@color/neutral_600</color>
+    <color name="colorTextHint">@color/neutral_400</color>
+    <color name="colorTextDisabled">@color/neutral_400</color>
+    <color name="colorTextIcon">@color/neutral_600</color>
+    <color name="colorTextIconDisabled">@color/neutral_400</color>
+    <color name="colorTextIconActive">@color/primary_500</color>
+    <color name="colorTextIconInactive">@color/neutral_600</color>
+
+    <!-- Legacy colors (for backward compatibility) -->
+    <color name="purple_200">@color/primary_200</color>
+    <color name="purple_500">@color/primary_500</color>
+    <color name="purple_700">@color/primary_700</color>
+    <color name="teal_200">@color/secondary_200</color>
+    <color name="teal_700">@color/secondary_700</color>
+    <color name="black">@color/neutral_900</color>
+    <color name="white">@color/neutral_50</color>
+</resources>

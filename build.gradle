@@ -1,0 +1,17 @@
+// Empty file - repository configuration moved to settings.gradle.kts 
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+    dependencies {
+        classpath libs.gradle
+        classpath libs.kotlin.gradle.plugin
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+} 
